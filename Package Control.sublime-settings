@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Block Cursor Everywhere",
+		"Clickable URLs",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Solarized Toggle",
+		"Sync View Scroll",
+		"TodoReview",
+		"Vintageous"
+	]
+}

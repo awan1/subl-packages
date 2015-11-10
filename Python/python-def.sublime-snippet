@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+def ${1:function}(${2:args}):
+    """
+    ${3:doc}
+
+    Parameters
+    ----------
+    ${2:args}: ${4:description}
+
+    Returns
+    -------
+    ${5:rets}
+    
+    """
+    raise Exception("${1:function}: Not implemented")
+
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ddef</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>

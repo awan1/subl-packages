@@ -1,0 +1,66 @@
+{
+	"added_words":
+	[
+		"A2",
+		"D3",
+		"D2",
+		"pong",
+		"tempcomp",
+		"Vivek",
+		"indices",
+		"refactor",
+		"todo",
+		"Architecting",
+		"dodgy",
+		"overfitting",
+		"Algo",
+		"prepend",
+		"Mentorship",
+		"refactored",
+		"stdin",
+		"cmdline",
+		"tl;dr",
+		"Hacky",
+		"farsight",
+		"regressor",
+		"ok'd",
+		"pre",
+		"Vivek's",
+		"siloed",
+		"algo",
+		"timestamp"
+	],
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 50,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Anonymous Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"architecting"
+	],
+	"indent_to_bracket": true,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": true,
+	"word_wrap": true
+}
