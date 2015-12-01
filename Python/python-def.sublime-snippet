@@ -13,7 +13,7 @@ def ${1:function}(${2:args}):
     ${5:rets}
     
     """
-    raise Exception("${1:function}: Not implemented")
+    raise NotImplementedError("${1:function}")
 
 
 ]]></content>

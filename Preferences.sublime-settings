@@ -28,7 +28,9 @@
 		"Vivek's",
 		"siloed",
 		"algo",
-		"timestamp"
+		"timestamp",
+		"submatrices",
+		"submatrix"
 	],
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
@@ -38,7 +40,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "Anonymous Pro",
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
