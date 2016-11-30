@@ -5,15 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"AutoWrap",
 		"Block Cursor Everywhere",
 		"Clickable URLs",
 		"Fold Python Docstrings",
+		"MoveTab",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"Solarized Toggle",
 		"Sync View Scroll",
 		"TodoReview",
-		"Vintageous"
+		"Vintageous",
+		"Wrap Plus"
 	]
 }
