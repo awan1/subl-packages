@@ -41,12 +41,17 @@
 		"Frobnicate",
 		"offline",
 		"programatically",
-		"programmatically"
+		"programmatically",
+		"enums",
+		"foci"
 	],
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 50,
 	"auto_wrap": true,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
