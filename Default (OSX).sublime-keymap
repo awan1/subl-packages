@@ -11,4 +11,6 @@
 { "keys": ["alt+shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
 { "keys": ["alt+shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
 { "keys": ["ctrl+alt+super+shift+d"], "command": "add_date"},
+{ "keys": ["ctrl+alt+super+shift+t"], "command": "add_date_time"},
+{ "keys": ["super+s"], "command": "date_and_save"},
 ]
