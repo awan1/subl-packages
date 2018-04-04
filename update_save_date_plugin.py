@@ -19,7 +19,7 @@ import sublime_plugin
 import time
 
 
-class AddDateCommand(sublime_plugin.TextCommand):
+class UpdateDateCommand(sublime_plugin.TextCommand):
     """To update time/date last modified, command looks for the beginning
     of the date-line (e.g. "L" if it's "// Last Edited: 26 Jun 2017
     05:38PM") and the end of the date-line (e.g. "M" if it's "// Last Edited:
@@ -72,6 +72,6 @@ class DateAndSaveCommand(sublime_plugin.WindowCommand):
 
     def run(self):
         self.window.run_command("save")
-        self.window.run_command("add_date")
+        self.window.run_command("update_date")
         # We save again here, since the change-of-date itself needs to be saved
         self.window.run_command("save")
